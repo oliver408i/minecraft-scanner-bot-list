@@ -8,3 +8,4 @@
 51.15.70.79 | Datacenter (Unknown)
 130.61.128.174 | Datacenter (Oracle Public Cloud)
 51.158.167.151 | Datacenter (Unknown)
+18.194.139.159 | Datacenter (AmazonAWS)
