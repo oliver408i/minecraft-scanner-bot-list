@@ -11,3 +11,4 @@
 18.194.139.159 | Datacenter (AmazonAWS)
 52.57.114.8 | Datacenter (AmazonAWS)
 102.129.143.90 | VPN (Unknown)
+192.9.154.151 | Datacenter (Oracle)
